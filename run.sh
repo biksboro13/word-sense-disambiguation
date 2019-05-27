@@ -1,0 +1,1 @@
+python main.py data/English-train.xml data/English-dev.xml SVM.answer KNN.answer
